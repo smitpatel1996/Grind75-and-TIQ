@@ -2,7 +2,7 @@
 
 strs = ["flower","flow","flows"]
 
-#Approach : String & GenProg
+#Approach : String
 #TC : O(mn), SC: O(m)
 #m = length of min length string
 def func(strs):
