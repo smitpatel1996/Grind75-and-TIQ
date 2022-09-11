@@ -2,7 +2,7 @@
 
 #Approach : Binary Trees and Queues
 #TC: O(n), SC: O(2^h)
-#h = max-height of the binary tree (2^h < n)
+#h = maxHeight(binary tree)
 from collections import deque
 def func(root):
     if(not root): return 0

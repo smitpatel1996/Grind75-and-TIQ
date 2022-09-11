@@ -1,10 +1,10 @@
-#Longest Common Prefix - Grind75 & TIQ
+#Longest Common Prefix
 
 strs = ["flower","flow","flows"]
 
 #Approach : String
 #TC : O(mn), SC: O(m)
-#m = length of min length string
+#m = min(len(strings))
 def func(strs):
     out,i = strs[0],1
     while(i < len(strs)):

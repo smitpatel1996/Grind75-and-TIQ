@@ -1,4 +1,4 @@
-#Valid Parentheses - Grind75 & TIQ
+#Valid Parentheses
 
 s = "(]"
 

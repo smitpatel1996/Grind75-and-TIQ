@@ -1,4 +1,4 @@
-#Roman to Integer - Grind75 & TIQ
+#Roman to Integer
 
 s = "MCMXCIV"
 

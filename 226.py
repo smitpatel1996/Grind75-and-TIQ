@@ -1,7 +1,7 @@
 #Invert Binary Tree
 
 #Approach : Binary Trees
-#TC : O(n), SC: O(n) (recursive call stack)
+#TC : O(n), SC: O(n)
 def func(root):
     if(root):
         def helper(root):

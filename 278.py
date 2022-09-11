@@ -1,7 +1,6 @@
 #First Bad Version
 
 #Approach : Binary Search
-#Iterative Implementation
 #TC : O(logn), SC: O(1)
 def func(n):
     s,e = 1,n

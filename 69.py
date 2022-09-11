@@ -2,7 +2,7 @@
 
 x = 80
 
-#Approach : Searching (Binary Search)
+#Approach : Binary Search
 #TC : O(logn), SC: O(1)
 def func(x):
     if(x in (0,1)): return x

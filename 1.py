@@ -1,4 +1,4 @@
-#Two Sum - Grind75 & TIQ
+#Two Sum
 
 nums = [3,3]
 target = 6

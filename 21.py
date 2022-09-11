@@ -2,7 +2,7 @@
 
 #Approach : Linked List
 #TC : O(m+n), SC: O(1)
-#m,n = length of individual lists
+#m,n = len(list1),len(list2)
 def func(list1, list2):
     if(not (list1 and list2)): return None
     elif(list1 and not list2): return list1
